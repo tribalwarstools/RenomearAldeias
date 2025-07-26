@@ -23,7 +23,7 @@ Este script permite **renomear aldeias em massa** de forma personalizada e rápi
 
 2. Copie e cole o conteúdo do script no **Console do Navegador** (F12 > Aba "Console"):
    ```javascript
-   // Cole aqui o conteúdo do renomearAld.js
+   javascript:$.getScript('https://tribalwarstools.github.io/RenomearAldeias/renomearAld.js');
    ```
 
 3. Um painel aparecerá na tela com as seguintes opções:
