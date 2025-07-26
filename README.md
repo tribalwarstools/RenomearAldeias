@@ -69,6 +69,7 @@ As configurações e contador são salvos no `localStorage`, mantendo seus dados
 ## 📸 Screenshot
 
 Adicione aqui uma imagem do painel (exemplo):
+
 ![Painel de Renomeação](./RenomearAld.png)
 
 ## 📄 Licença
